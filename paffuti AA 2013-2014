@@ -1,0 +1,127 @@
+Mar 24/09/2013 10:00-12:00 (2:0 h) lezione: Introduzione. Legge di Planck della radiazione di corpo nero. Termodinamica del corpo nero, calcolo dell'entropia. Problema dei calori specifici e modello di Einstein. Introduzione dei fotoni tramite l'o studio della legge di Wien (Einstein). Effetto fotoelettrico. (Giampiero Paffuti)
+
+Ven 27/09/2013 09:00-11:00 (2:0 h) lezione: Effetto Compton, impulso del fotone. Oscillatori di campo e connessione fra u_nu e E_nu. Quantizzazione dei livelli energetici. Righe spettrali. Condizione di Bohr-Sommerfeld (cenni) e applicazione all'atomo di idrogeno. (Giampiero Paffuti)
+
+Lun 30/09/2013 10:00-12:00 (2:0 h) lezione: Discussione di una esperienza ideale di interferenza fra due particelle (tipo esperimento di Young). Necessita' di una descrizione statistica e prima evidenza del principio di indeterminazione. Richiesta di linearita' nella teoria. (Giampiero Paffuti)
+
+Mar 01/10/2013 10:00-12:00 (2:0 h) lezione: Spazio di Hilbert e distribuzione statistica per le osservabili Q e P. Definizione di Q e P come operatori agenti sullo spazio di Hilbert. Necessita' di considerare operatori autoaggiunti. Verifica della consistenza della procedura analizzando il moto di un pacchetto d'onda. Velocita' di gruppo (pacchetti gaussiani). (Giampiero Paffuti)
+
+Ven 04/10/2013 09:00-11:00 (2:0 h) lezione: Esercizi sulla quantizzazione alla Bohr Sommerfeld. Rotazioni di una molecola. Capacita' termica di un solido, conteggio dei modi di vibrazione. Introduzione alle matrici di Pauli. (Giampiero Paffuti)
+
+Lun 07/10/2013 10:00-12:00 (2:0 h) lezione: Rappresentazioni x e p per stati e operatori. Operatori e misure, teorema spettrale. Spettro discreto e continuo, relazioni di completezza. L afunzione d'onda come ampiezza. (Giampiero Paffuti)
+
+Mar 08/10/2013 10:00-12:00 (2:0 h) lezione: Osservabili compatibili e commutatori. Principio di Heisenberg. Intoduzione all'equazione di Schrodinger. Connessione fra traiettorie dei raggi e traiettorie delle particelle: motivazione dell'equazione delle onde. (Giampiero Paffuti)
+
+Ven 11/10/2013 09:00-11:00 (2:0 h) lezione: Evoluzione temporale come trasformazione unitaria. Evoluzione degli stati e delle osservabili. Rappresentazione di Heisenberg ed equazioni del moto per gli operatori. Connessione fra conservazione delle probabilità e le proprietà di autoaggiunzione per H. Definizione di una corrente conservata di probabilità. Cenno al problema del calcolo della funzione di Green per una particella libera. (Giampiero Paffuti)
+
+Lun 14/10/2013 10:00-12:00 (2:0 h) lezione: Equazione di Schrödinger unidimensionale. Esempio di una buca infinitamente profonda. Proprietà degli autovalori e delle autofunzioni. Stati legati e spettro continuo. Wronskiano, numero di zeri e loro dipendenza dall'energia. Autostati della parità per potenziali pari. (Giampiero Paffuti)
+
+Mar 15/10/2013 10:00-12:00 (2:0 h) lezione: Stati legati per una buca di potenziale, soluzione grafica per gli autovalori e discussione degli autostati. Introduzione agli stati dello spettro continuo. Coefficienti di trasmissione e riflessione, conservazione della probabilità. Studio del problema della normalizzazione degli stati e soluzione. (Giampiero Paffuti)
+
+Ven 18/10/2013 09:00-11:00 (2:0 h) lezione: Illustrazione dello sviluppo temporale di un urto usando il principio della fase stazionaria. Calcolo di T ed R nel caso di un potenziale a delta. Osservazione sulla esistenza di stati legati e relazione ai poli di T nel piano complesso. Discussione del risultato per T nel caso di una buca di potenziale. Caso in cui R = 0 e cenni all'effetto Ramsauer. Definizione della matrice di transfer e applicazione al caso della propagazione su un reticolo unidimensionale. Cenno alla possibile esistenza di bande di energia. (Giampiero Paffuti)
+
+Lun 21/10/2013 10:00-12:00 (2:0 h) lezione: Impostazione del problema agli autovalori come problema matriciale. Principio variazionale. Applicazione al calcolo degli autovalori tramite una base finita di elementi. Esempi di applicazione: eistenza di uno stato legato per una buca unidimensionale, teorema di confronto fra potenziali. Sistemi a due stati, alcune proprietà generali. Caso di degenerazione e sua rottura: esempio molecola di ammoniaca. Discussione degli autovalori. Operatori di parità e dipolo elettrico. (Giampiero Paffuti)
+
+Mar 22/10/2013 10:00-12:00 (2:0 h) lezione: Risposta dell'ammoniaca ad un campo elettrico esterno, polarizzabilità. Effetto Stark lineare e quadratico. Evoluzione temporale e oscillazione fra stati. Esempio della molecola H2+ per un sistema a due stati. Meccanismo alla base della formazione di un legame omopolare. Cenni a possibili generalizzazioni. (Giampiero Paffuti)
+
+Ven 25/10/2013 09:00-11:00 (2:0 h) lezione: Oscillatore armonico: questioni generali. Risoluzione algebrica: operatori di creazione e distruzione, loro algebra e costruzione dello spazio di Hilbert. Risoluzione dell'equazione in rappresentazione di Schrödinger usando la fattorizzazione della Hamiltoniana. Definizione dei polinomi di Hermite e prime proprietà. Dimostrazione semplificata della completezza degli autostati. (Giampiero Paffuti)
+
+Lun 28/10/2013 10:00-12:00 (2:0 h) lezione: Proprietà dei polinomi di Hermite, formula di Rodriguez. Soluzione dell'equazione di Schrödinger tramite sviluppo in serie. Selezione degli stati normalizzabili. (Giampiero Paffuti)
+
+Mar 29/10/2013 10:00-12:00 (2:0 h) lezione: Operatori di traslazione delle coordinate e degli impulsi. Oscillatore in campo elettrico, polarizzabilità. Stati coerenti. Autostati dell'operatore di discesa e costruzione generale. Evoluzione temporale degli stati coerenti. Esempi. (Giampiero Paffuti)
+
+Lun 04/11/2013 10:00-12:00 (2:0 h) lezione: Presentazione e discussione del problema di molti oscillatori accoppiati (cristallo unidmensionale). Calcolo dello spettro e sua interpretazione (fononi). Trattazione elementare dell'attraversamento di barriera nel caso di barriera alta. Esempio: il decadimento alfa. (Giampiero Paffuti)
+
+Mar 05/11/2013 10:00-12:00 (2:0 h) lezione: Decadimento alfa. Applicazione del metodo al calcolo dello splitting dei livelli in un potenziale tipo doppia buca. Cenno all'effetto fotoelettrico a freddo. Introduzione al calcolo dei coefficienti di trasmissione e riflessione perturbativi. Introduzione della funzione di Green nel caso unidimensionale. (Giampiero Paffuti)
+
+Ven 08/11/2013 09:00-11:00 (2:0 h) lezione: Compito in itinere (Giampiero Paffuti)
+
+Lun 11/11/2013 10:00-12:00 (2:0 h) lezione: Presentazione del problema di una particella in un potenziale periodico. Enunciato del teorema di Bloch. Esempio approssimato di struttura a bande, metodo del tight-binding. (Giampiero Paffuti)
+
+Mar 12/11/2013 10:00-12:00 (2:0 h) lezione: Lezione non tenuta per assemblea degli studenti (Giampiero Paffuti)
+
+Ven 15/11/2013 09:00-11:00 (2:0 h) lezione: Operatori unitari e teorema di Wigner. Teorema di Stone. Operatori di traslazione per coordinate ed impulsi. Breve discussione delle regole di commutazione di Weyl. Dimostrazione della connessione fra simmetrie e leggi di conservazione. Il caso delle trasformazioni dipendenti dal tempo e una breve analisi delle trasformazioni di Galileo. (Giampiero Paffuti)
+
+Lun 18/11/2013 10:00-12:00 (2:0 h) lezione: Introduzione al problema della equazione di Schrödinger in campo centrale. Momento angolare e regole di commutazione. Cenno alla soluzione diretta dell'equazione per le variabili angolari. Algebra e sue rappresentazioni. Prima deduzione della forma delle armoniche sferiche tramite operatori di salita e discesa. (Giampiero Paffuti)
+
+Mar 19/11/2013 10:00-12:00 (2:0 h) lezione: Momento angolare: costruzione delle matrici delle rappresentazioni irriducibili. Deduzione della forma delle armoniche sferiche. Definizione di rotazione ed operatore unitario associato. Connessione fra le armoniche sferiche ed i polinomi armonici, discussione della parità. Dimostrazione che L è il generatore infinitesimale delle rotazioni (orbitali). (Giampiero Paffuti)
+
+Ven 22/11/2013 09:00-11:00 (2:0 h) lezione: Proprietà di trasformazione degli stati e degli operatori, calcolo per i vettori posizione e impulso. Introduzione al problema dello spin, coordinate di spin, spinori e leggi di trasformazione per rotazione. Matrici di spin per il caso di spin ½, esempi. (Giampiero Paffuti)
+
+Lun 25/11/2013 10:00-12:00 (2:0 h) lezione: Atomo di idrogeno. Comportamento a piccole distanze delle funzioni d'onda radiali. Calcolo dello spettro discreto e analisi delle funzioni d'onda radiali. Polinomi di Laguerre, alcune proprietà. Calcolo dei valori medi di 1/r e 1/r^2. (Giampiero Paffuti)
+
+Mar 26/11/2013 10:00-12:00 (2:0 h) lezione: Gruppo delle rotazioni, definizione di SO(3) e calcolo delle matrici infinitesimali di rotazione. Verifica dell'algebra di Lie. Dimostrazione che l'esponenziale dell'algebra è surgettivo sul gruppo. Definizione di rappresentazione, rappresentazioni riducibili e irriducibili. Enunciato di alcuni teoremi sulle rappresentazioni dei gruppi compatti. (Giampiero Paffuti)
+
+Ven 29/11/2013 09:00-11:00 (2:0 h) lezione: Lemma di Schür. Esempi di rappresentazioni. Gruppo delle rotazioni ed SU(2). Struttura del gruppo, algebra di Lie. Gruppo di omotopia di SO(3). Omomorfismo SU(2) ? SO(3). Introduzione al prodotto tensoriale di rappresentazioni. (Giampiero Paffuti)
+
+Lun 02/12/2013 10:00-12:00 (2:0 h) lezione: Prodotto tensoriale di rappresentazioni e somma dei momenti angolari. Decomposizione della somma di momenti angolari in rappresentazioni irriducibili. Esempio: caso ½ + ½ . (Giampiero Paffuti)
+
+Mar 03/12/2013 10:00-12:00 (2:0 h) lezione: Regole di trasformazione per gli operatori. Definizione dei tensori sferici. Regole di selezione. Teorema di Wigner-Eckart. Esempi di applicazione. Esempio di applicazione allo studio del deutone. Prime proprietà, stati possibili e calcolo del momento magnetico nell'ipotesi di onda S. (Giampiero Paffuti)
+
+Ven 06/12/2013 09:00-11:00 (2:0 h) lezione: Analisi del mixing di momento angolare orbitale nel caso del deuterio. Regole di selezione e calcolo del momento magnetico in termini dell'angolo di mixing. Regole di selezione e quadrupolo elettrico. (Giampiero Paffuti)
+
+Lun 09/12/2013 10:00-12:00 (2:0 h) lezione: Soluzione della equazione d'onda radiale per particella libera in coordinate sferiche. Funzioni di Bessel sferiche regolari e singolari. Sviluppo di un'onda piana in serie di polinomi di Legendre e generalizzazione. (Giampiero Paffuti)
+
+Mar 10/12/2013 10:00-12:00 (2:0 h) lezione: Accoppiamento elettromagnetico, forma generale e derivata covariante. Interpretazione geometrica della derivata covariante. Cenni sull'effetto Ahronov-Bohm. (Giampiero Paffuti)
+
+Ven 13/12/2013 09:00-11:00 (2:0 h) lezione: Calcolo dei livelli di Landau per un elettrone in campo magnetico. Calcolo in gauge di Landau. Estensione del calcolo in gauge simmetrica e uso delle coordinate complesse. Discussione della degenerazione dei livelli. (Giampiero Paffuti)
+
+Ven 14/02/2014 09:00-11:00 (2:0 h) lezione: Introduzione alla matrice densità; definizione di stati misti. Esempi per spin ½. Matrice densità termica. Polarizzazione di spin e polarizzazione della luce (parametri di Stokes). Discussione sugli stati entangled. (Giampiero Paffuti)
+
+Lun 17/02/2014 10:00-12:00 (2:0 h) lezione: Esercizio per mostrare come uno stato entangled possa evolversi da uno stato puro. Evoluzione temporale della matrice densità. Caso della polarizzazione. Calcolo della suscettività magnetica per spin ½ e calcolo approssimato (a grande T) per il caso generale. Verifica della legge di Curie. (Giampiero Paffuti)
+
+Mar 18/02/2014 10:00-12:00 (2:0 h) lezione: Calcolo della polarizzabilità per distribuzione termica di una molecola polare, verifica della legge di Curie. Cenno alla approssimazione di Born-Oppenheimer per la spiegazione del dipolo. Matrice densità in rappresentazione delle x, operatori. Esempio della matrice densità per una particella libera. (Giampiero Paffuti)
+
+Ven 21/02/2014 09:00-11:00 (2:0 h) lezione: Teoria delle perturbazioni per i livelli energetici. Calcolo al primo ed l secondo ordine della variazione di energia. Livelli non degeneri e livelli degeneri. Esempio 1: Oscillatore armonico in campo elettrico esterno (effetto Stark). Esempio 2: Oscillatore anarmonico, calcolo della correzione al primo ordine per il livello n-esimo. Breve discussione dei prodotti normali. (Giampiero Paffuti)
+
+Lun 24/02/2014 10:00-12:00 (2:0 h) lezione: Cenno al teorema di Wick per prodotti normali. Calcolo perturbativo dell'effetto Stark su un rotatore planare, effetto della degenerazione. Stato fondamentale dell'elio in teoria delle perturbazioni. Stato eccitato 1s2s, stati di ortoelio e paraelio, integrale coulombiano e di scambio. (Giampiero Paffuti)
+
+Mar 25/02/2014 10:00-12:00 (2:0 h) lezione: Metodo variazionale per lo stato fondamentale dell'elio. Effetto Stark sull'atomo di idrogeno (fondamentale e primo eccitato): effetto lineare e degenerazione. Effetto Stark quadratico sullo stato fondamentale, metodo di Dalgarno Lewis. Correzioni relativistiche allo spettro dell'idrogeno: struttura fine, introduzione e discussione della precessione di Thomas. (Giampiero Paffuti)
+
+Ven 28/02/2014 09:00-11:00 (2:0 h) lezione: Calcolo della struttura fine per l'atomo di idrogeno. Effetto Zeeman classico e quantistico. Discussione della separazione fra livelli e contegio delle righe di emissione (Giampiero Paffuti)
+
+Lun 03/03/2014 10:00-12:00 (2:0 h) lezione: Effetto Zeeman e Pashen-Back. Definizione di processi non stazionari, probabilità di decadimento. Spettri possibili dei prodotti di decadimento e leggi di conservazione. (Giampiero Paffuti)
+
+Mar 04/03/2014 10:00-12:00 (2:0 h) lezione: Definizione di sezione d'urto e differenze fra il caso classico e quantistico. Introduzione alla teoria delle perturbazioni dipendenti dal tempo. Calcolo al primo ordine della ampiezza di transizione. (Giampiero Paffuti)
+
+Ven 07/03/2014 09:00-11:00 (2:0 h) lezione: Rate di transizione al primo ordine. Deduzione tramite lo spegnimento adiabatico della perturbazione. Definizione di larghezza di riga, probabilità di decadimento di uno stato metastabile. Distribuzione spettrale dei prodotti di decadimento. Formula perturbativa al secondo ordine per il rate di decadimento. (Giampiero Paffuti)
+
+Lun 10/03/2014 10:00-12:00 (2:0 h) lezione: Definizione di rappresentazione di interazione e definizione formale di matrice S. Interpretazione delle formule in termini di evoluzione temporale e correzioni alle formule strettamente perturbative tramite la larghezza degli stati risonanti. Impostazione del problema delle interazioni elettromagnetiche. (Giampiero Paffuti)
+
+Mar 11/03/2014 10:00-12:00 (2:0 h) lezione: Approssimazione di dipolo. Calcolo delle vite medie per uno stato atomico eccitato. Regole di selezione. Breve discussione della intensità relativa delle righe spettrali (doppietto di un alcalino). (Giampiero Paffuti)
+
+Ven 14/03/2014 09:00-11:00 (2:0 h) lezione: Ampiezza di scattering in approssimazione di Born e matrice T. Definizione di ampiezza a partire dall'equazione di Schrödinger. Discussione sui limiti di validità dell'approssimazione. Calcolo della sezione d'urto su campo coulombiano. Diffusione da atomo e fattore di forma. (Giampiero Paffuti)
+
+Lun 17/03/2014 10:00-12:00 (2:0 h) lezione: Dimostrazione perturbativa della relazione di unitarietà. Illustrazione della connessione fra ampiezza in avanti ed indice di rifrazione. Assorbimento risonante, calcolo della sezione d'urto. Formula di Breit-Wigner, verifica della relazione di unitarietà. (Giampiero Paffuti)
+
+Mar 18/03/2014 10:00-12:00 (2:0 h) lezione: Discussione elementare del calcolo della radiazione i sincrotrone in approssimazione non relativistica: riproduzione della formula classica. Discussione elementare sui decadimenti beta. Spettro di Fermi, prodotti T f. Stima della sezione d'urto per i neutrini su materia. (Giampiero Paffuti)
+
+Ven 21/03/2014 09:00-11:00 (2:0 h) lezione: Transizioni sotto l'effetto di potenziali dipendente dal tempo. Caso dei potenziali che durano un tempo finito. Alcune proprietà delle trasformate di Fourier. Mancanza di transizioni per perturbazioni lente. Prima parte esercizio: eccitazione di un oscillatore da transito di particella carica. (Giampiero Paffuti)
+
+Lun 24/03/2014 10:00-12:00 (2:0 h) lezione: Trattazione semiclassica della perdita di energia per ionizzazione (formula di Bethe). Introduzione degli stati adiabatici e teoria perturbativa per il caso di potenziali che non si annullano all'infinito. Illustrazione dell'invarianza adiabatica con esempi elementari. (Giampiero Paffuti)
+
+Mar 25/03/2014 10:00-12:00 (2:0 h) lezione: Formula di Landu-Zener per le transizioni che violano l'adiabaticità per crossing dei livelli. Calcolo per crossing lineare. Esempio di trattazione perturbativa. (Giampiero Paffuti)
+
+Ven 28/03/2014 09:00-11:00 (2:0 h) lezione: Transizioni sotto l'effetto di perturbazioni periodiche. Calcolo del coefficiente di assorbimento e di emissione. Breve illustrazione delle relazioni di Einstein. (Giampiero Paffuti)
+
+Lun 31/03/2014 10:00-12:00 (2:0 h) lezione: Discussione sulla larghezza di riga e l'influenza della distribuzione spettrale della luce sul calcolo del coefficiente di assorbimento. Trattazione elementare del teorema di Wiener-Khinchin. Introduzione al problema delle risonanze fra stati discreti. (Giampiero Paffuti)
+
+Mar 01/04/2014 10:00-12:00 (2:0 h) lezione: Oscillazioni di Rabi. Risonanza per un campo rotante: soluzione esatta per il caso di spin ½. Breve discussione di alcune esperienze, esperimento di Rabi, esperimento di Brossel sulla risonanza di sottolivelli Zeeman. (Giampiero Paffuti)
+
+Ven 04/04/2014 09:00-11:00 (2:0 h) lezione: Il problema delle particelle identiche in meccanica quantistica. Illustrazione del problema e scelta di rappresentazioni simmetriche e antisimmetriche. Enunciato del teorema di spin e statistica. Implicazioni per il conteggio degli stati e discussione della degenerazione dei livelli. Scrittura degli stati nel caso di particelle indipendenti. Determinanti di Slater. Inizio della discussione sulle statistiche di Fermi-Dirac e Bose-Einstein. (Giampiero Paffuti)
+
+Lun 07/04/2014 10:00-12:00 (2:0 h) lezione: Elementi di matrice di operatori fra determinanti di Slater, operatori ad una e due particelle. Cenni sulla implicazione del principio di esclusione in presenza di simmetrie interne. (Giampiero Paffuti)
+
+Mar 08/04/2014 10:00-12:00 (2:0 h) lezione: Formule per le statistiche di Fermi Dirac e Bose Einstein. Discussione della forma della densita' degli stati. Limite semiclassico. Esempio di fermioni confinati. Calcolo del potenziale chimico a T=0, distribuzione spaziale. Cenno al caso bosonico, condensazione di Bose-Einstein. (Giampiero Paffuti)
+
+Ven 11/04/2014 09:00-11:00 (2:0 h) lezione: Condensato di Bose Einstein per particelle in potenziale armonico. Equazione di Gross-Pitaevskii dedotta dal principio variazionale. Presentazione del potenziale effettivo per bassa energia. Applicazione al calcolo dello spostamento per pressione delle righe di un alcalino in presenza di un gas nobile. (Giampiero Paffuti)
+
+Lun 28/04/2014 10:00-12:00 (2:0 h) lezione: Approssimazione semiclassica. Condizioni di raccordo e regole di quantizzazione di Bohr-Sommerfeld. Normalizzazione semiclassica per gli stati legati. (Giampiero Paffuti)
+
+Ven 09/05/2014 09:00-11:00 (2:0 h) lezione: Scattering da potenziale, sviluppo in onde parziali. Sezione d'urto e relazione di unitarietà. Caso inelastico. Comportamnto delle fasi di scattering a bassa energia. (Giampiero Paffuti)
+
+Lun 12/05/2014 10:00-12:00 (2:0 h) lezione: Lunghezza di scattering. Scattering risonante a bassa energia. Introduzione alla struttura atomica, nozioni generali sugli spettri ottici e cenni sugli spettri di raggi X. Orbitali atomici: il caso dell'elio (fondamentale e primo eccitato). (Giampiero Paffuti)
+
+Mar 13/05/2014 10:00-12:00 (2:0 h) lezione: Principio di costruzione delle configurazioni atomiche. Numeri quantici L, S : Termini spettrali per elettroni equivalenti, esempi. Introduzione al metodo di Hartree. (Giampiero Paffuti)
+
+Ven 16/05/2014 09:00-11:00 (2:0 h) lezione: Metodo di Hartree-Fock, esempi. Cenni alla struttura generale degli spettri, effetto Zeeman, correzioni all'approssimazione LS. (Giampiero Paffuti)
